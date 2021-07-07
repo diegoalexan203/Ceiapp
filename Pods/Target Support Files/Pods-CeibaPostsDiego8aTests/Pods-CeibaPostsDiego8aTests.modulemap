@@ -1,0 +1,6 @@
+framework module Pods_CeibaPostsDiego8aTests {
+  umbrella header "Pods-CeibaPostsDiego8aTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
